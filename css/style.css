@@ -64,10 +64,76 @@ h5 {
 }
 
 .class-header h2 {
-    color: rgb(255, 255, 255);
-    text-shadow: #020819 8px -20px 9px;
+  color: rgb(255, 255, 255);
+  text-shadow: #020819 8px -20px 9px;
 }
 
 .class-quote {
-    font-size: 2.5em;
+  font-size: 2.5em;
+}
+
+.class-dark-background {
+  background-color: rgb(25, 33, 41);
+  color: rgb(255, 255, 255);
+}
+
+.class-text {
+  font-size: 2em;
+  font-weight: 100;
+  text-align: center;
+}
+
+.class-link-btn {
+  background-color: rgb(67, 163, 230);
+  color: rgb(255, 255, 255);
+  font-family: "Roboto condensed";
+  font-size: 2em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.class-service-box {
+  font-size: 1.7em;
+  text-align: center;
+}
+
+.class-service-box img {
+  width: 125px;
+}
+
+.class-section-text {
+  font-size: 1.9em;
+  text-align: center;
+}
+
+.class-member-name {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+#team {
+    background-color: rgb(25, 33, 41);
+    color: rgb(255, 255, 255);
+}
+
+#team img {
+  width: 250px;
+  height: 180px;
+}
+
+.class-footer {
+  text-align: center;
+  font-size: 1.9em;
+}
+.class-address {
+  font-style: normal;
+  font-size: 0.8em;
+}
+.class-footer a {
+  color: var(--color-blue);
+  text-decoration: none;
+}
+.class-footer ul {
+  list-style: none;
 }
